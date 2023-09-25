@@ -47,6 +47,12 @@
 
 
 
+# Install
+
+**You can install exe(for Win) or construct file(For Linux(Ubuntu,Debian))** - [there](https://github.com/ViVA505/converter_numbers/releases/tag/convert_app)
+
+
+
 
 
 
