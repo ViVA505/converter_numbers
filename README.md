@@ -7,12 +7,29 @@
 
 
 
+
+
+
+
 ![Image alt](https://github.com/ViVA505/converter_numbers/assets/119343910/585f2558-6cb1-4c56-9d21-5c1dceefe02c)
 
 
 
 
+
+
+
 ![Image alt](https://github.com/ViVA505/converter_numbers/assets/119343910/2a28c9a0-8312-4cf3-82ce-9bebfe8bfa4e)
+
+
+
+
+
+
+
+
+
+
 
 
 
