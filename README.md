@@ -27,10 +27,32 @@
 
 
 
-
-
-
-
-
-
 ![Image alt](https://github.com/ViVA505/converter_numbers/assets/119343910/9d23eae7-fbb7-4882-a9d2-4c1290ec31cd)
+
+
+
+# About alpha vers 1.0
+
+**App design - quite simple and boring**
+
+**You can only convert a decimal number**
+
+**Added an exception if a person wrote an empty line**
+
+**Only integer**
+
+
+*Quite boring and stupid* **for now**
+
+
+
+
+
+
+
+
+
+
+
+
+
