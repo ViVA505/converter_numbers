@@ -52,8 +52,24 @@
 **You can install exe(for Win) or construct file(For Linux(Ubuntu,Debian))** - [there](https://github.com/ViVA505/converter_numbers/releases/tag/convert_app)
 
 
+
+
+
 # Install(with open-source)
 
+## Windows
+
+
+**Install Python:**
+
+Then you have to install python in - [there](https://www.python.org/)
+
+
+
+**Then install zip archive or install git and wrote whis command in bash-terminal:**
+```shell
+git clone https://github.com/ViVA505/converter_numbers
+```
 
 
 
