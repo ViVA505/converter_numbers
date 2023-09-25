@@ -1,5 +1,5 @@
 import tkinter as tk
-from number_convert import NumberConverterApp
+from Num_convert.number_convert import NumberConverterApp
 
 
 if __name__ == "__main__":

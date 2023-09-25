@@ -40,10 +40,10 @@ class NumberConverterApp:
             return
 
         if conversion_option == "binary":
-            # Выполните конвертацию в двоичную систему
+            # Конвертация в двоичную систему
             result = bin(int(decimal_number))[2:]
         elif conversion_option == "octal":
-            # Выполните конвертацию в восьмеричную систему
+            # Конвертация в восьмеричную систему
             result = oct(int(decimal_number))[2:]
         elif conversion_option == "hexadecimal":
             # Выполните конвертацию в шестнадцатеричную систему
