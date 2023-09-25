@@ -66,7 +66,7 @@ Then you have to install python in - [there](https://www.python.org/)
 
 
 
-**Then install zip archive or install git and wrote whis command in bash-terminal:**
+**Then install zip archive.Or you can install git and wrote whis command in bash-terminal:**
 ```shell
 git clone https://github.com/ViVA505/converter_numbers
 ```
