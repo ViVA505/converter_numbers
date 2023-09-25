@@ -33,13 +33,13 @@
 
 # About alpha vers 1.0
 
-**App design - quite simple and boring**
+ - **App design - quite simple and boring**
 
-**You can only convert a decimal number**
+ - **You can only convert a decimal number**
 
-**Added an exception if a person wrote an empty line**
+ - **Added an exception if a person wrote an empty line**
 
-**Only integer**
+ - **Only integer**
 
 
 *Quite boring and stupid* **for now**
