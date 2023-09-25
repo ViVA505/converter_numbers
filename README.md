@@ -55,7 +55,7 @@
 
 
 
-# Install(with open-source)
+# Install(with open-source code)
 
 ## Windows
 
