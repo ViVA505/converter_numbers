@@ -78,9 +78,43 @@ python main.py
 ```
 
 
+## Termux
+**COMMANDS FOR TERMUX:**
+
+```shell
+pkg update
+pkg install git
+pkg install python
+pip install tkinter
+git clone https://github.com/ViVA505/converter_numbers
+cd converter_numbers
+python3 main.py
+```
 
 
 
+
+
+## Linux
+
+**Then install tar archive.Or you can used git**
+
+**Ubuntu/Debian:**
+```shell
+sudo apt update
+git clone https://github.com/ViVA505/converter_numbers
+cd converter_numbers
+python3 main.py
+```
+
+
+**Arch**
+```shell
+sudo pacman -Syy
+git clone https://github.com/ViVA505/converter_numbers
+cd converter_numbers
+python3 main.py
+```
 
 
 
