@@ -71,6 +71,14 @@ Then you have to install python in - [there](https://www.python.org/)
 git clone https://github.com/ViVA505/converter_numbers
 ```
 
+**Okay if you have choosed one of the methods,continue as usual:**
+```shell
+cd converter_numbers
+python main.py
+```
+
+
+
 
 
 
